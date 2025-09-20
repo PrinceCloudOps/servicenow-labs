@@ -5,7 +5,7 @@ https://www.loom.com/share/40c9fa898cb549ffb3675f68144f7958?sid=56397789-e71f-4d
  Creating & Resolving an Incident
 
 Overview:
-This lab shows how to create and resolve a basic incident ticket in ServiceNow — a core skill for help desk and IT support roles.
+This lab shows how to create and resolve a basic incident ticket in ServiceNow a core skill for help desk and IT support roles.
 
 Key Skills Demonstrated:
 
