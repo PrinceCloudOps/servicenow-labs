@@ -5,7 +5,7 @@ Watch Me Build Lab HERE ▶️ [Video](https://www.loom.com/share/40c9fa898cb549
 ---
 
 **Overview:**  
-This lab shows how to create and resolve a basic incident ticket in ServiceNow — a core skill for help desk and IT support roles.  
+This lab shows how to create and resolve a basic incident ticket in ServiceNow a core skill for help desk and IT support roles.  
 
 ---
 
